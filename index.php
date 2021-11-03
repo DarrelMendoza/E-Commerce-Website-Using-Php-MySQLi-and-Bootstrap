@@ -4,7 +4,7 @@
     include("includes/header.php");
 
 ?>
-
+	<!-- DARREL MENDOZA -->
    <div class="container" id="slider"><!-- container Begin -->
 
        <div class="col-md-12"><!-- col-md-12 Begin -->
